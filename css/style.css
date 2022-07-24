@@ -54,13 +54,15 @@ p{
 .name:hover{
     color: hsl(178, 100%, 50%) 
 }
+a{
+    text-decoration: none;
+}
 .head{
     color: white;
     font-size: 18px;
     font-family: 'Outfit' ,sans-serif;
     font-weight: 600;
     margin: 4px 0;
-    text-decoration: none;
     min-height: fit-content;
     cursor: pointer;
 }
