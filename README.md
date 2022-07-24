@@ -18,6 +18,7 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot
-
+- DESKTOP VIEW
 ![Desktop View](./screenshots/desktop%20view.png)
+- MOBILE VIEW
 ![Mobile View](./screenshots/mobile%20view.png)
