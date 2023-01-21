@@ -24,4 +24,4 @@ Users should be able to:
 ![Mobile View](./screenshots/mobile%20view.png)
 
 ## Live Site
-Click ![here](https://b-uchi.github.io/nft-preview-component) to preview
+Click [here](https://b-uchi.github.io/nft-preview-component) to preview
