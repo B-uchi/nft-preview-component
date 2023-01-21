@@ -22,3 +22,6 @@ Users should be able to:
 ![Desktop View](./screenshots/desktop%20view.png)
 - MOBILE VIEW
 ![Mobile View](./screenshots/mobile%20view.png)
+
+## Live Site
+Click ![here](https://b-uchi.github.io/nft-preview-component) to preview
